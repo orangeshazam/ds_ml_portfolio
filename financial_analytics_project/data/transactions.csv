@@ -1,0 +1,9 @@
+transaction_id,user_id,date,category,amount,type
+1,101,2026-01-01,Salary,3000,income
+2,101,2026-01-02,Groceries,150,expense
+3,101,2026-01-03,Rent,1000,expense
+4,101,2026-01-10,Freelance,800,income
+5,101,2026-01-12,Entertainment,200,expense
+6,101,2026-02-01,Salary,3000,income
+7,101,2026-02-03,Groceries,180,expense
+8,101,2026-02-05,Travel,500,expense

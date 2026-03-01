@@ -1,0 +1,10 @@
+date,hour,task_type,duration_minutes,focus_score,energy_level
+2026-02-20,9,study,60,8,7
+2026-02-20,14,entertainment,40,5,4
+2026-02-20,20,study,90,9,8
+2026-02-21,10,work,120,7,6
+2026-02-21,15,entertainment,60,4,3
+2026-02-21,18,study,80,8,7
+2026-02-22,8,study,100,9,8
+2026-02-22,13,work,90,6,5
+2026-02-22,21,entertainment,70,5,4

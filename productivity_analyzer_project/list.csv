@@ -1,0 +1,4 @@
+user_id,date,content_type,title,category,duration_minutes,rating,productive
+1,2026-02-01,YouTube,Python Tutorial,Education,45,9,1
+1,2026-02-01,Netflix,Random Show,Entertainment,120,6,0
+1,2026-02-02,Book,Deep Work,Education,60,10,1

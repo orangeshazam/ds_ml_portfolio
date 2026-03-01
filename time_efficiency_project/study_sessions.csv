@@ -1,0 +1,5 @@
+student_id,date,subject,duration_minutes,focus_score,difficulty
+1,2026-02-20,Math,90,8,7
+1,2026-02-20,Physics,60,6,8
+1,2026-02-21,English,45,9,4
+2,2026-02-20,Math,120,7,9

@@ -1,0 +1,7 @@
+order_id,customer_id,product,category,quantity,price,order_date
+1,101,Laptop,Electronics,1,1200,2026-01-10
+2,102,Phone,Electronics,2,800,2026-01-12
+3,103,Book,Books,3,20,2026-01-13
+4,101,Keyboard,Electronics,1,100,2026-01-15
+5,104,Pen,Books,10,2,2026-01-16
+6,105,Laptop,Electronics,1,1200,2026-01-18
