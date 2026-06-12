@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.sav
+
+# Databases
+*.db
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/

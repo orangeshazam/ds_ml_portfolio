@@ -1,0 +1,16 @@
+# Model artifacts — generate via training script (see README)
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+frontend/node_modules/
+frontend/build/
+
+# OS / IDE
+.DS_Store
+.env
